@@ -32,6 +32,8 @@ function Calculator() {
     } else {
         alert(msg);
     }
+    
+    document.write('<a href="https://github.com/Khryztie/JS_calculator"> Go to github repo</a>');
 }
 
 Calculator()
